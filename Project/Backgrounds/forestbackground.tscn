@@ -8,18 +8,8 @@
 position = Vector2( -2.3916, 6.10352e-005 )
 motion_scale = Vector2( 0.5, 0.5 )
 
-[node name="Sprite" type="Sprite" parent="ParallaxLayer"]
-
-[node name="forest" type="Sprite" parent="."]
-position = Vector2( 425.162, 272.896 )
-texture = ExtResource( 1 )
-region_enabled = true
-region_rect = Rect2( 0, 0, 1600, 0 )
-
-[node name="forest2" type="Sprite" parent="."]
-position = Vector2( 794.07, 403.942 )
+[node name="forest2" type="Sprite" parent="ParallaxLayer"]
+position = Vector2( 796.462, 403.942 )
 texture = ExtResource( 1 )
 region_enabled = true
 region_rect = Rect2( 0, 0, 1600, 800 )
-
-[node name="Sprite" type="Sprite" parent="."]
