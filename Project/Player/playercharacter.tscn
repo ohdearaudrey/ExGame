@@ -18,6 +18,7 @@ shape = SubResource( 1 )
 [node name="tyrannosaurus-1" type="Sprite" parent="."]
 position = Vector2( 386.25, 448.461 )
 texture = ExtResource( 2 )
+flip_h = true
 vframes = 4
 hframes = 6
 
