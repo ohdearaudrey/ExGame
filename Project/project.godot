@@ -19,9 +19,6 @@ config/name="Project"
 run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
-[editor_plugins]
-
-enabled=PoolStringArray( "pixijs_spritesheet_importer" )
 [rendering]
 
 environment/default_environment="res://default_env.tres"

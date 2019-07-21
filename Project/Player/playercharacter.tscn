@@ -33,6 +33,7 @@ shape = SubResource( 1 )
 [node name="Sprite" type="Sprite" parent="."]
 position = Vector2( 386.25, 448.461 )
 texture = ExtResource( 2 )
+flip_h = true
 vframes = 4
 hframes = 6
 frame = 3
